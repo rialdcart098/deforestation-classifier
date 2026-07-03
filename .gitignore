@@ -219,3 +219,5 @@ __marimo__/
 
 # JetBrains IDEs
 .idea/
+
+data/
